@@ -10,3 +10,6 @@ super simple puush clone for linux - mostly intended for personal use as it does
 * pyscreenshot
 * pyxhook (included)
 
+
+
+# Simplepuush uses pyxhook 
